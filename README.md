@@ -1,10 +1,10 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090b,50:1e3a8a,100:06b6d4&height=220&section=header&text=Yakub%20Firman%20Mustofa&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Web%20Developer%20%C2%B7%20Next.js%20%C2%B7%20Laravel%20%C2%B7%20REST%20API&descSize=17&descAlignY=60&animation=fadeIn" alt="Header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090b,50:1e3a8a,100:06b6d4&height=220&section=header&text=Yakub%20Firman%20Mustofa&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Web%20Developer&descSize=24&descAlignY=60&animation=fadeIn" alt="Header" width="100%"/>
 
 <a href="https://yakubfirman.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Firman+%F0%9F%91%8B;Full+Stack+Web+Developer+from+Surabaya;Next.js+%C2%B7+React+%C2%B7+Laravel+%C2%B7+TypeScript;High-performance+REST+APIs+%26+scalable+web+apps;Open+for+work+%E2%80%94+Remote+%2F+Hybrid" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Firman+%F0%9F%91%8B;Full+Stack+Web+Developer;Building+modern%2C+fast+%26+scalable+web+apps;Open+for+work+%E2%80%94+Remote+%2F+Hybrid" alt="Typing SVG"/>
 </a>
 
 <br/>
